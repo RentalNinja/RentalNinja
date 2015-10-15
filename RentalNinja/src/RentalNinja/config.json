@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "RentalNinja"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-RentalNinja-d9e053e2-6fda-4d1c-ad64-f591090fe4d6;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
