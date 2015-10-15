@@ -34,6 +34,15 @@ Depending on the size of the project, if it is small and simple enough the refer
 
 All code that people want to be merged must have accompanying tests. This is a requirement. Code without tests will not be merged.
 
+## Naming Conventions
+
+We try to follow conventions for each technology that we use
+
+* Javascript: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* C#: https://msdn.microsoft.com/en-us/library/ms229043(v=vs.110).aspx
+* HTML/CSS: https://google.github.io/styleguide/htmlcssguide.xml#ID_and_Class_Name_Delimiters
+* Angular: https://google.github.io/styleguide/angularjs-google-style.html
+
 ## Contributors
 
 All are welcome to contribute to the project.
